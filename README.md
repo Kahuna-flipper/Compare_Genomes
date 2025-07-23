@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # compare_assemblies.py
 
 A Python utility to **compare two genome assemblies** (FASTA + GFF) and generate quick summary statistics on assembly quality, sequence similarity, and gene content overlap.  
